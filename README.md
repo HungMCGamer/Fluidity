@@ -1,8 +1,15 @@
-# Fludity
-1.8.9 Forge utility mod (WIP)
-## Build
-The client used "FML_AT" so you need to do
+# Fluidity
+Fluidity is a Forge Utility Mod.
+
+## Building
+To Build Fluidity, you need to do these 2 commands below:
 ~~~shell
 ./gradlew setupDecompWorkspace
+./gradlew build
 ~~~
-before build, or the build will failed
+
+## Installing
+Put the jar into the mod folder, then run Forge
+
+## Credit
+- [Author](https://github.com/hax0r31337): Liulihaocai
